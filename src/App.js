@@ -6,7 +6,7 @@ import Form from "./Form";
 
 function App() {
   //URL VARIABLE
-  const url = "http://localhost:4500"
+  const url = "https://dogsbackend12.herokuapp.com"
 
   //STATE TO HOLD DOGS
   const [dogs, setDogs] = useState([])
